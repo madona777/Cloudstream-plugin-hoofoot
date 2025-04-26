@@ -1,8 +1,10 @@
 {
   "name": "Hoofoot",
   "description": "Highlights bola dari hoofoot.com",
-  "version": "1.0.0",
-  "language": "id",
-  "pluginClass": "com.hoofoot.HoofootPlugin",
-  "type": "video"
+  "author": "madona777",
+  "language": "en",
+  "type": "video",
+  "iconUrl": "https://www.hoofoot.com/favicon.ico",
+  "sourceUrl": "https://github.com/madona777/Cloudstream-plugin-hoofoot",
+  "version": 1
 }
