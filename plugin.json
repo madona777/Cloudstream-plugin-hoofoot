@@ -1,0 +1,8 @@
+{
+  "name": "Hoofoot",
+  "description": "Highlights bola dari hoofoot.com",
+  "version": "1.0.0",
+  "language": "id",
+  "pluginClass": "com.hoofoot.HoofootPlugin",
+  "type": "video"
+}
