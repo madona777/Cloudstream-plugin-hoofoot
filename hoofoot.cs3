@@ -1,11 +1,6 @@
 {
   "name": "Hoofoot",
   "description": "Highlights bola dari hoofoot.com",
-  "packageName": "com.hoofoot",
-  "pluginVersion": "1.0.0",
-  "pluginRepo": "https://github.com/madona777/Cloudstream-plugin-hoofoot",
-  "pluginClass": "com.hoofoot.HoofootPlugin",
-  "language": "id",
-  "tvTypes": ["Movie"],
-  "sources": []
+  "url": "https://github.com/madona777/Cloudstream-plugin-hoofoot/releases/latest/download/hoofoot.cs3",
+  "plugin": true
 }
