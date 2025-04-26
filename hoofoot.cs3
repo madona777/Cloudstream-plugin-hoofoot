@@ -1,10 +1,11 @@
 {
   "name": "Hoofoot",
-  "description": "Highlights bola dari hoofoot",
+  "description": "Highlights bola dari hoofoot.com",
   "packageName": "com.hoofoot",
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "repoUrl": "https://github.com/USERNAME/cloudstream-plugin-hoofoot",
-  "sourceUrl": "https://www.hoofoot.com",
-  "authors": ["your-name"]
+  "pluginVersion": "1.0.0",
+  "pluginRepo": "https://github.com/madona777/cloudstream-plugin-hoofoot",
+  "pluginClass": "com.hoofoot.HoofootPlugin",
+  "language": "id",
+  "tvTypes": ["Movie"],
+  "sources": []
 }
